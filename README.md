@@ -38,23 +38,25 @@ The schema:
    
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/08a309829a0acee8975cfafce86e2470a54c5d79/schema.png)
 
-3. Data After INSERT Statements
+2. Data After INSERT Statements
 
    
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/insert.png)
+
+
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/insert_output.png)
 
-5. Data After UPDATE Statements
+3. Data After UPDATE Statements
 
    
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/update.png)
 
-7. Data After DELETE Statements
+4. Data After DELETE Statements
 
    
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/delete.png)
 
-9. Final Output
+5. Final Output
 
     
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/final_result.png)
