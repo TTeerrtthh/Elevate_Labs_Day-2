@@ -34,7 +34,7 @@ The schema:
   
 ## 📷 Screenshots
 1. Database Schema in MySQL Workbench
-![image_alt]()
+![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/08a309829a0acee8975cfafce86e2470a54c5d79/schema.png)
 
 2. Data After INSERT Statements
 ![image_alt]()
