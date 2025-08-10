@@ -31,14 +31,20 @@ The schema:
  3️⃣ Delete Data
 - Deleted a member by ID.
 - Deleted books with `NULL` author references.
-
----
-
+  
 ## 📷 Screenshots
 1. Database Schema in MySQL Workbench
+![image_alt]()
 
 2. Data After INSERT Statements
+![image_alt]()
+![image_alt]()
 
 3. Data After UPDATE Statements
+![image_alt]()
 
 4. Data After DELETE Statements
+![image_alt]()
+
+5. Final Output
+![image_alt]()
