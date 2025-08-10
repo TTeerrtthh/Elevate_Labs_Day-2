@@ -34,17 +34,27 @@ The schema:
   
 ## 📷 Screenshots
 1. Database Schema in MySQL Workbench
+
+   
 ![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/08a309829a0acee8975cfafce86e2470a54c5d79/schema.png)
 
-2. Data After INSERT Statements
-![image_alt]()
-![image_alt]()
+3. Data After INSERT Statements
 
-3. Data After UPDATE Statements
-![image_alt]()
+   
+![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/insert.png)
+![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/insert_output.png)
 
-4. Data After DELETE Statements
-![image_alt]()
+5. Data After UPDATE Statements
 
-5. Final Output
-![image_alt]()
+   
+![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/update.png)
+
+7. Data After DELETE Statements
+
+   
+![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/delete.png)
+
+9. Final Output
+
+    
+![image_alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-2/blob/023f25c71fb6a430ca0275ffe44254cb71c84521/final_result.png)
